@@ -17,7 +17,7 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="College Chitta "
+           title="College Chitta "
           des=" This is a career consultant organization. Here we provide Career guidance,
            counseling for Engineering and Medical.
            We provide the best college according to their rank and cutoff.
@@ -53,6 +53,7 @@ const Projects = () => {
           title="Github Profile Finder"
           des=" Any one can search any name in the search bar and all the 
           account made in that name will appear int the display. "
+
           src={projectTwo}
         />
       </div>
